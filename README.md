@@ -8,7 +8,7 @@ sudo apt-get install mosquitto-clients
 
 sudo mosquitto –v
 
-to use the MQTT to transfer data to other computers, you need to add the two lines in the mosquito.conf file it is in etc /mosquitto
+to use the MQTT to transfer data to other computers, you need to add the two lines in the mosquitto.conf file it is in etc /mosquitto
 
 listener 1883
 
